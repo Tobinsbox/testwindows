@@ -1,2 +1,2 @@
 Hello , World
-Create a new branch is quick & Simple
+Create a new branch is quick and Simple
